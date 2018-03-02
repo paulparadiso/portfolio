@@ -1,0 +1,65 @@
+body{
+	text-align: center;
+	background-color: #333;
+}
+
+a:link{
+	text-decoration: none;
+	color: yellow;
+}
+
+a:visited{
+	text-decoration: none;
+	color: yellow;
+}
+
+#header{
+	padding-top: 10px;
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+.header-item{
+	margin-left: 5%;
+}
+
+#main{
+	margin: auto;
+	width:900px;
+	height: 100%;
+	text-align: left;
+	background-color: #999;
+}
+
+.portfolio-item{
+	height: 245px;
+	margin-bottom: 15px;
+	background-color: #ccc;
+}
+
+.description-container{
+	text-align: left;
+	width: 58%;
+	float: left;
+	margin-top:10px;
+	margin-left: 10px;
+	color: #444;
+}
+
+.item-title{
+	font-size: 24px;
+	color: #111;
+}
+
+.image-container{
+	width: 38%;
+	height: 245px;
+	text-align: center;
+	float: right;
+}
+
+.item-image{
+	width: auto;
+	height: 75%;
+	margin-top: 10px;
+}
